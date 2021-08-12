@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 117.793 sec <<< FAILURE! - in TestSuite
+feature(OpenWeatherAPITest)  Time elapsed: 46.044 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: Expected response code 200 but was:  expected [0] but found [200]
+	at OpenWeatherAPITest.feature(OpenWeatherAPITest.java:23)
+Caused by: java.lang.AssertionError: Expected response code 200 but was:  expected [0] but found [200]
+

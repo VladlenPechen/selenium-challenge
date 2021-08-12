@@ -1,0 +1,5 @@
+OpenWeatherAPITest.class
+cucumber\steps\WeatherAPTestStepdefsBase.class
+StoreChallengeTest.class
+cucumber\steps\WeatherAPTestStepdefs.class
+BaseTest.class

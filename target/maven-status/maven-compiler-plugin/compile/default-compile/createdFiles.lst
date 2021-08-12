@@ -1,0 +1,4 @@
+pageobjects\StoreMainPO.class
+pageobjects\SimplePO.class
+cucumber\utils\ConfigUtils.class
+pageobjects\BasePO.class
